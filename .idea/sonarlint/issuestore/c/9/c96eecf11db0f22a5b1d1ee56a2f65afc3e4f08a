@@ -1,0 +1,8 @@
+
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ùïËW8õßƒÈÁ,
+[
+squid:S1065"9Replace this use of System.out or System.err by a logger.(³ÒÊÒúÿÿÿÿ8õßƒÈÁ,
+Msquid:EmptyStatementUsageCheck"Remove this empty statement.(Ãæ ©8õßƒÈÁ,
+Msquid:EmptyStatementUsageCheck"Remove this empty statement.(¼§ë8õßƒÈÁ,
+Asquid:S1659"#Declare "right" on a separate line.(çùà¶8õßƒÈÁ,
